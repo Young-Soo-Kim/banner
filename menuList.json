@@ -1,33 +1,28 @@
 {
     "menu": [
                 {
-                    "date": "20260411",
-                    "foodcourtName": "º±∫¿-U-9-2",
-                    "menu": "*æÁΩƒµ•¿Ã*",
+                    "date": "2026-04-11",
+                    "foodcourtName": "ÏÑ†Î¥â-U-9-2",
+                    "menu": "*ÏñëÏãùÎç∞Ïù¥*",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
-                    "date": "20260412",
-                    "foodcourtName": "º±∫¿-U-9-2",
-                    "menu": "∏ﬁ¥∫2",
+                    "date": "2026-04-12",
+                    "foodcourtName": "ÏÑ†Î¥â-U-9-2",
+                    "menu": "Î©îÎâ¥2",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
-                    "date": "20260413",
-                    "foodcourtName": "º±∫¿-U-9-2",
-                    "menu": "∏ﬁ¥∫3",
+                    "date": "2026-04-13",
+                    "foodcourtName": "ÏÑ†Î¥â-U-9-2",
+                    "menu": "Î©îÎâ¥3",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 }
             ]
 }
-
-
-
-
-
