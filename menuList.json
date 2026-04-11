@@ -2,24 +2,24 @@
     "menu": [
                 {
                     "date": "2026-04-11",
-                    "foodcourtName": "선봉-U-9-2",
-                    "menuName": "*양식데이*",
+                    "foodcourtName": "소망식당",
+                    "menuName": "쌀국수",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
                     "date": "2026-04-12",
-                    "foodcourtName": "선봉-U-9-2",
-                    "menuName": "메뉴2",
+                    "foodcourtName": "명륜진사갈비",
+                    "menuName": "돼지갈비",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
                     "date": "2026-04-13",
-                    "foodcourtName": "선봉-U-9-2",
-                    "menuName": "메뉴3",
+                    "foodcourtName": "채선당",
+                    "menuName": "샤브샤브",
                     "count": 1,
                     "show": true,
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
