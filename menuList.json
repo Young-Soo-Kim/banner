@@ -1,7 +1,7 @@
 {
     "menu": [
                 {
-                    "date": "2026-04-11",
+                    "date": "2026.04.12",
                     "foodcourtName": "소망식당",
                     "menuName": "쌀국수",
                     "mealType": 1,
@@ -10,7 +10,7 @@
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
-                    "date": "2026-04-12",
+                    "date": "2026.04.13",
                     "foodcourtName": "명륜진사갈비",
                     "menuName": "돼지갈비",
                     "count": 1,
@@ -19,7 +19,7 @@
                     "bannerUrl": "https://raw.githubusercontent.com/Young-Soo-Kim/banner/refs/heads/main/20251217_1.png"
                 },
                 {
-                    "date": "2026-04-13",
+                    "date": "2026.04.13",
                     "foodcourtName": "채선당",
                     "menuName": "샤브샤브",
                     "count": 1,
